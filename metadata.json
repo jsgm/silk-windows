@@ -1,0 +1,8 @@
+{
+  "uuid": "silk-windows@jsgm.github.com",
+  "name": "Silk Windows",
+  "description": "Soft, smooth window movement effect for GNOME Shell.",
+  "shell-version": [
+    "51"
+  ]
+}
